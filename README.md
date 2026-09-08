@@ -28,14 +28,6 @@ May 2024 – May 2026 · Germany · Remote
 - Frontend, backend, APIs, and external services.
 - Technical integrations, improvements, error handling, hosting, DNS, and servers as needed.
 
-### MJSCOPE — Co-Founder
-Dec 2024 – Dec 2025 · United Arab Emirates  
-[mjscope.com](https://mjscope.com)
-
-- Co-founded; owned the technical side and digital product delivery.
-- Built and maintained sites, platforms, and custom systems for businesses.
-- Site / API integrations and automation, with client support and maintenance.
-
 ---
 
 ## Selected work
